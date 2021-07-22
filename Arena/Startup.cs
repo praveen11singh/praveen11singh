@@ -16,6 +16,7 @@ namespace Arena
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //test deployement
         }
 
         public IConfiguration Configuration { get; }

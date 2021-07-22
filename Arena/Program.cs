@@ -21,6 +21,7 @@ namespace Arena
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    //jgjkgk
                 });
     }
 }
